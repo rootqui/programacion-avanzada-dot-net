@@ -1,0 +1,10 @@
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\bin\Debug\Cliente.exe.config
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\bin\Debug\Cliente.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\bin\Debug\Cliente.pdb
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\obj\Debug\Cliente.Form1.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\obj\Debug\Cliente.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Cliente\obj\Debug\Cliente.pdb

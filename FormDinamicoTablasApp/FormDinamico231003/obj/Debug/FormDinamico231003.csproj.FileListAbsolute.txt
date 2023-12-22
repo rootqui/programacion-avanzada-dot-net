@@ -1,0 +1,10 @@
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\bin\Debug\FormDinamico231003.exe.config
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\bin\Debug\FormDinamico231003.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\bin\Debug\FormDinamico231003.pdb
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\obj\Debug\FormDinamico231003.csproj.AssemblyReference.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\obj\Debug\FormDinamico231003.Form1.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\obj\Debug\FormDinamico231003.Properties.Resources.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\obj\Debug\FormDinamico231003.csproj.GenerateResource.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\obj\Debug\FormDinamico231003.csproj.CoreCompileInputs.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\obj\Debug\FormDinamico231003.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\FormDinamico231003\FormDinamico231003\obj\Debug\FormDinamico231003.pdb

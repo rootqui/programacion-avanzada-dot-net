@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<clsPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>10</Id>
+  <Name>Luis</Name>
+  <Apellido>Flores Flores</Apellido>
+  <DNI>90212345</DNI>
+</clsPersona>

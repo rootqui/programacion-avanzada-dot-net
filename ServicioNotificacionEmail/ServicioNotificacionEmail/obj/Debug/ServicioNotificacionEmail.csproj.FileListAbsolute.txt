@@ -1,0 +1,9 @@
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\bin\Debug\ServicioNotificacionEmail.exe.config
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\bin\Debug\ServicioNotificacionEmail.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\bin\Debug\ServicioNotificacionEmail.pdb
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\obj\Debug\ServicioNotificacionEmail.csproj.AssemblyReference.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\obj\Debug\ServicioNotificacionEmail.ServiceNotificationEmail.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\obj\Debug\ServicioNotificacionEmail.csproj.GenerateResource.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\obj\Debug\ServicioNotificacionEmail.csproj.CoreCompileInputs.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\obj\Debug\ServicioNotificacionEmail.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ServicioNotificacionEmail\ServicioNotificacionEmail\obj\Debug\ServicioNotificacionEmail.pdb

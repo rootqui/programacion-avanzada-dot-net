@@ -1,0 +1,12 @@
+<Root>
+  <Categoria Id="1" Nombre="testNombre01" ArchivoImagen="testArchivoImagen01" />
+  <Categoria Id="2" Nombre="Condimentos" ArchivoImagen="Condimentos.gif" />
+  <Categoria Id="3" Nombre="Repostería" ArchivoImagen="Repost.gif" />
+  <Categoria Id="4" Nombre="Lácteos" ArchivoImagen="Lacteos.gif" />
+  <Categoria Id="5" Nombre="Granos/Cereales" ArchivoImagen="Granos.gif" />
+  <Categoria Id="6" Nombre="Carnes" ArchivoImagen="Carnes.gif" />
+  <Categoria Id="7" Nombre="Frutas/Verduras" ArchivoImagen="Frutas.gif" />
+  <Categoria Id="8" Nombre="Pescado/Marisco" ArchivoImagen="Pescados.gif" />
+  <Categoria Id="9" Nombre="prueba123" ArchivoImagen="prueba" />
+  <Categoria Id="14" Nombre="coleccion" ArchivoImagen="coleccion.png" />
+</Root>

@@ -1,0 +1,10 @@
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\bin\Debug\Practica231013.exe.config
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\bin\Debug\Practica231013.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\bin\Debug\Practica231013.pdb
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\obj\Debug\Practica231013.csproj.AssemblyReference.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\obj\Debug\Practica231013.Form1.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\obj\Debug\Practica231013.Properties.Resources.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\obj\Debug\Practica231013.csproj.GenerateResource.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\obj\Debug\Practica231013.csproj.CoreCompileInputs.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\obj\Debug\Practica231013.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\Practica231013\Practica231013\obj\Debug\Practica231013.pdb

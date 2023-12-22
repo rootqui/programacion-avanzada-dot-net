@@ -1,0 +1,8 @@
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\bin\Debug\ConsoleApp231006.exe.config
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\bin\Debug\ConsoleApp231006.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\bin\Debug\ConsoleApp231006.pdb
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\obj\Debug\DemoSerializacion.csproj.AssemblyReference.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\obj\Debug\DemoSerializacion.csproj.SuggestedBindingRedirects.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\obj\Debug\DemoSerializacion.csproj.CoreCompileInputs.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\obj\Debug\ConsoleApp231006.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\ConsoleApp231006\ConsoleApp231006\obj\Debug\ConsoleApp231006.pdb

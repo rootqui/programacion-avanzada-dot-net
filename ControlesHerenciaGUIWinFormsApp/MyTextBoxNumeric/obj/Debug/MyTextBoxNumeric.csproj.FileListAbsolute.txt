@@ -1,0 +1,6 @@
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231011\MyTextBoxNumeric\obj\Debug\MyTextBoxNumeric.csproj.AssemblyReference.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231011\MyTextBoxNumeric\obj\Debug\MyTextBoxNumeric.csproj.SuggestedBindingRedirects.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231011\MyTextBoxNumeric\obj\Debug\MyTextBoxNumeric.Form2.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231011\MyTextBoxNumeric\obj\Debug\MyTextBoxNumeric.Properties.Resources.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231011\MyTextBoxNumeric\obj\Debug\MyTextBoxNumeric.csproj.GenerateResource.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231011\MyTextBoxNumeric\obj\Debug\MyTextBoxNumeric.csproj.CoreCompileInputs.cache

@@ -1,0 +1,38 @@
+﻿.cabecera {
+    height: 7vh;
+}
+
+.contenido-web {
+    height: 93vh;
+}
+
+#menu *, nav {
+    background-color: var(--bs-gray-800);
+    color: var(--bs-light);
+}
+
+a {
+    text-decoration: none;
+}
+
+.accordion {
+    --bs-accordion-active-bg: white;
+    --bs-accordion-btn-icon: none;
+    --bs-accordion-btn-active-icon: none;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-background * {
+    background-color: white;
+}
+
+.container-dynamic {
+    padding: 20px;
+}
+
+.form-control {
+    width: 50%;
+}

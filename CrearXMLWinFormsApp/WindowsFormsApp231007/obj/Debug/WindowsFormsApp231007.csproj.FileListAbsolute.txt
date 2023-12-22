@@ -1,0 +1,10 @@
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\bin\Debug\WindowsFormsApp231007.exe.config
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\bin\Debug\WindowsFormsApp231007.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\bin\Debug\WindowsFormsApp231007.pdb
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\obj\Debug\WindowsFormsApp231007.csproj.AssemblyReference.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\obj\Debug\WindowsFormsApp231007.Form1.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\obj\Debug\WindowsFormsApp231007.Properties.Resources.resources
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\obj\Debug\WindowsFormsApp231007.csproj.GenerateResource.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\obj\Debug\WindowsFormsApp231007.csproj.CoreCompileInputs.cache
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\obj\Debug\WindowsFormsApp231007.exe
+D:\Isur\Cursos2023-2\ProgramacionAvanzadaDotNet\Labs\WindowsFormsApp231007\WindowsFormsApp231007\obj\Debug\WindowsFormsApp231007.pdb
